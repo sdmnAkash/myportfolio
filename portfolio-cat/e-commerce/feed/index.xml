@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>E-Commerce &#8211; My Portfolio</title>
+	<atom:link href="https://sdmnakash.github.io/myportfolio/portfolio-cat/e-commerce/feed/" rel="self" type="application/rss+xml" />
+	<link>https://sdmnakash.github.io/myportfolio</link>
+	<description></description>
+	<lastBuildDate>Sun, 18 Feb 2024 06:12:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://sdmnakash.github.io/myportfolio/wp-content/uploads/2024/02/Nahid_Al_Masud-removebg-preview-2-1-150x150.png</url>
+	<title>E-Commerce &#8211; My Portfolio</title>
+	<link>https://sdmnakash.github.io/myportfolio</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Sneakers BD</title>
+		<link>https://sdmnakash.github.io/myportfolio/portfolio/free-web-ui-kit/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 26 Jan 2024 07:45:00 +0000</pubDate>
+				<guid isPermaLink="false">https://sdmnakash.github.io/myportfolio/portfolio/free-web-ui-kit/</guid>
+
+					<description><![CDATA[I built the entire e-commerce website with all e-commerce functionalities including invoice, Payment integration. Therefore, I have enough knowledge with building complete e-commerce website.]]></description>
+										<content:encoded><![CDATA[
+<p></p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="1024" src="https://sdmnakash.github.io/myportfolio/wp-content/uploads/2024/02/375856518_292553376722412_7274253863282332784_n-1024x1024.jpg" alt="" class="wp-image-323" srcset="https://sdmnakash.github.io/myportfolio/wp-content/uploads/2024/02/375856518_292553376722412_7274253863282332784_n-1024x1024.jpg 1024w, https://sdmnakash.github.io/myportfolio/wp-content/uploads/2024/02/375856518_292553376722412_7274253863282332784_n-300x300.jpg 300w, https://sdmnakash.github.io/myportfolio/wp-content/uploads/2024/02/375856518_292553376722412_7274253863282332784_n-150x150.jpg 150w, https://sdmnakash.github.io/myportfolio/wp-content/uploads/2024/02/375856518_292553376722412_7274253863282332784_n-768x768.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>I built the entire e-commerce website with all e-commerce functionalities including invoice, Payment integration. Therefore, I have enough knowledge with building complete e-commerce website. </p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
